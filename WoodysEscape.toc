@@ -1,0 +1,9 @@
+## Interface: 50200
+## Title: WoodysEscape
+## Version: 1.0.50200
+## Author: Somdubai
+## Notes: v1.0.50200 Adds a clear target button.
+## DefaultState: enabled
+## X-Category: Interface Enhancements
+## LoadOnDemand: 0
+WoodysEscape.lua
