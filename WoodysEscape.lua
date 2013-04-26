@@ -3,5 +3,5 @@
 
     By Somdubai
 --------------------------------------------------------------]]
-local b = CreateFrame("Button", "WoodysSpellStopTargetingButton", UIParent, "SecureActionButtonTemplate")
+local b = CreateFrame("Button", "WoodysEscapeButton", UIParent, "SecureActionButtonTemplate")
 b:SetAttribute("type", "stop")
