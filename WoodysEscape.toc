@@ -1,8 +1,8 @@
-## Interface: 50200
+## Interface: 50300
 ## Title: WoodysEscape
-## Version: 1.0.50200
+## Version: 1.0.50300
 ## Author: Somdubai
-## Notes: v1.0.50200 Adds a clear target button.
+## Notes: v1.0.50300 Adds a clear target button.
 ## DefaultState: enabled
 ## X-Category: Interface Enhancements
 ## LoadOnDemand: 0
